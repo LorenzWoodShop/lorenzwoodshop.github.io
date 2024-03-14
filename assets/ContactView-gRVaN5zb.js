@@ -1,1 +1,0 @@
-import{_ as t,o,c,p as a,a as s,b as _}from"./index-Y1jaeigk.js";const n={},d=e=>(a("data-v-a968d3b8"),e=e(),s(),e),p={class:"content-wrapper"},r=d(()=>_("h1",null,"Contact Me!",-1)),i=[r];function h(e,l){return o(),c("div",p,i)}const u=t(n,[["render",h],["__scopeId","data-v-a968d3b8"]]);export{u as default};
